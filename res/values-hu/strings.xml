@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UniversalNumerology</string>
+
+    <string name="action_new">Új Adat</string>
+
+    <string name="general_category">Általános</string>
+    <string name="chosen_category">Választott Számok</string>
+
+    <string name="success_category">Sikeresség</string>
+    <string name="success_overloaded">Túlterhelt</string>
+    <string name="overloaded_string">Igen</string>
+    <string name="not_overloaded_string">Nem</string>
+
+    <string name="energetics_category">Energetika</string>
+    <string name="energetic_potential">Energetikai Potenciál</string>
+    <string name="energetic_level_average">Átlagos Energiaszint</string>
+    <string name="energetic_cycle">Energetikai Ciklus</string>
+
+</resources>

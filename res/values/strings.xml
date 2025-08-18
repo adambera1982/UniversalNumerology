@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UniversalNumerology</string>
+
+    <string name="action_new">New Data</string>
+
+    <string name="general_category">General</string>
+    <string name="chosen_category">Chosen Numbers</string>
+
+    <string name="success_category">Success</string>
+    <string name="success_overloaded">Overloaded</string>
+    <string name="overloaded_string">Yes</string>
+    <string name="not_overloaded_string">No</string>
+
+    <string name="energetics_category">Energetics</string>
+    <string name="energetic_potential">Energetic Potential</string>
+    <string name="energetic_level_average">Average Energetic Level</string>
+    <string name="energetic_cycle">Energetic Cycle</string>
+
+</resources>

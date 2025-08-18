@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="number_list">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Seven</item>
+        <item>Eight</item>
+        <item>Nine</item>
+    </string-array>
+
+    <string-array name="details_general_date_category">
+        <item>Development Number</item>
+        <item>Emphasized Number</item>
+        <item>Ancestry Number</item>
+        <item>Source Number</item>
+        <item>Spiritual Stability</item>
+        <item>Physical Stability</item>
+        <item>Spiritual Dominance</item>
+    </string-array>
+
+    <string-array name="details_general_number_category">
+        <item>Goal Helping Number</item>
+        <item>Goal Number</item>
+        <item>Source Helping Number</item>
+        <item>Source Number</item>
+        <item>Spiritual Stability</item>
+        <item>Physical Stability</item>
+        <item>Spiritual Dominance</item>
+    </string-array>
+
+    <string-array name="success_category">
+        <item>Success</item>
+        <item>Overloaded</item>
+    </string-array>
+
+    <string-array name="chosen_category">
+        <item>Stable</item>
+        <item>Ascending</item>
+        <item>Sinking</item>
+        <item>Mountain</item>
+        <item>Valley</item>
+        <item>Runner Up</item>
+        <item>Holder</item>
+        <item>Runner Down</item>
+        <item>Retained</item>
+    </string-array>
+
+    <string-array name="main_pager_strip">
+        <item>Grid</item>
+        <item>Details</item>
+    </string-array>
+
+</resources>

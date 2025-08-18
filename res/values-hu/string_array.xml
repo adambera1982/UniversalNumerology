@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="number_list">
+        <item>Egyes</item>
+        <item>Kettes</item>
+        <item>Hármas</item>
+        <item>Négyes</item>
+        <item>Ötös</item>
+        <item>Hatos</item>
+        <item>Hetes</item>
+        <item>Nyolcas</item>
+        <item>Kilences</item>
+    </string-array>
+
+    <string-array name="details_general_date_category">
+        <item>Hasznosítandó szám</item>
+        <item>Kiemelt szám</item>
+        <item>Örökség szám</item>
+        <item>Forrás szám</item>
+        <item>Szellemi stabilitás</item>
+        <item>Fizikai stabilitás</item>
+        <item>Szellemi dominancia</item>
+    </string-array>
+
+    <string-array name="details_general_number_category">
+        <item>Célt Segítő Szám</item>
+        <item>Célszám</item>
+        <item>Forrást Támogató Szám</item>
+        <item>Forrásszám</item>
+        <item>Szellemi stabilitás</item>
+        <item>Fizikai stabilitá</item>
+        <item>Szellemi dominancia</item>
+    </string-array>
+
+    <string-array name="success_category">
+        <item>Sikeresség</item>
+        <item>Túlcsordult</item>
+    </string-array>
+
+    <string-array name="chosen_category">
+        <item>Stabil</item>
+        <item>Emelkedő</item>
+        <item>Süllyedő</item>
+        <item>Hegy</item>
+        <item>Völgy</item>
+        <item>Felfutó</item>
+        <item>Megtartó</item>
+        <item>Lefutó</item>
+        <item>Visszatartó</item>
+    </string-array>
+
+    <string-array name="main_pager_strip">
+    <item>Számtábla</item>
+    <item>Részletek</item>
+</string-array>
+</resources>
